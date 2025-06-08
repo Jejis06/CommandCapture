@@ -43,9 +43,9 @@ dev = [
 cmdcapture = "cmdcapture.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/cmdcapture"
-"Bug Reports" = "https://github.com/yourusername/cmdcapture/issues"
-Source = "https://github.com/yourusername/cmdcapture"
+Homepage = "https://github.com/Jejis06/CommandCapture"
+"Bug Reports" = "https://github.com/Jejis06/CommandCapture/issues"
+Source = "https://github.com/Jejis06/CommandCapture"
 
 [tool.setuptools.packages.find]
 where = ["."]

@@ -16,11 +16,11 @@ setup(
     name="cmdcapture",
     version="1.0.0",
     author="Command Capture Library",
-    author_email="",
+    author_email="wertex3233@gmail.com",
     description="A Python library for capturing output from terminal commands with advanced features",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/cmdcapture",
+    url="https://github.com/Jejis06/CommandCapture",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -57,7 +57,7 @@ setup(
     },
     keywords="command capture subprocess terminal shell output",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/cmdcapture/issues",
-        "Source": "https://github.com/yourusername/cmdcapture",
+        "Bug Reports": "https://github.com/Jejis06/CommandCapture/issues",
+        "Source": "https://github.com/Jejis06/CommandCapture",
     },
 ) 

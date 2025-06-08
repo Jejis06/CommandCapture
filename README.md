@@ -21,7 +21,7 @@ A comprehensive Python library for capturing output from terminal commands with 
 ### From source
 ```bash
 git clone <repository-url>
-cd cmdcapture
+cd CommandCapture 
 pip install .
 ```
 

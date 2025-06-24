@@ -20,7 +20,7 @@ A comprehensive Python library for capturing output from terminal commands with 
 
 ### From source
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jejis06/CommandCapture.git
 cd CommandCapture 
 pip install .
 ```

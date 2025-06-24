@@ -17,6 +17,11 @@ A comprehensive Python library for capturing output from terminal commands with 
 - 📦 **Zero dependencies** - Uses only Python standard library
 
 ## Installation
+### From PyPi
+```bash
+    https://pypi.org/project/cmdcapture/1.0.0/
+    pip install cmdcapture==1.0.0
+```
 
 ### From source
 ```bash
